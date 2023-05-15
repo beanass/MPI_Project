@@ -1,4 +1,4 @@
-The Program is done to read differents csv files with different processes using mpi4py 
+The Program is done to read different csv files with different processes using mpi4py 
 the requierement are to install mpi4py , pandas,  matplotlib, numpy librairies to be able to use it.
 
 
